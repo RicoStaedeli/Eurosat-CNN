@@ -1,4 +1,4 @@
-# ML-Eurosat
+# EuroSAT Classifier
 With this project I want to create a CNN to classify images from the official [EuroSAT](https://github.com/phelber/EuroSAT) dataset. 
 This dataset has Sentinel-2 images from 10 different classes. 
 
